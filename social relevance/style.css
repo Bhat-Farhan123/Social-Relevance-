@@ -1,0 +1,133 @@
+
+ .nav-bar{
+    height: 100px;
+    background-color: rgb(34, 240, 34);
+    border: 8px solid BLUE;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+ }
+ .hero-bar{
+    height: 80px;
+    background-color:rgb(247, 227, 202);
+    border: 8px solid blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+ .img1{
+    height: 90px;
+    border-radius: 40%;
+
+ }
+ .img2{
+    height: 90px;
+    border-radius:40% ;
+ }
+ .aa{
+   font-size: xx-large;
+   color: darkgreen;
+ }
+ .uu{
+   height: 70px;
+ }
+ .hero1{
+   display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 30PX 30PX;
+
+ }
+ .hero1 a{
+   padding: 80px;
+   font-size: larger;
+   color: black;
+   font-weight: bolder;
+   text-decoration: dotted;
+ }
+
+ .hero1 a:hover{
+   color: blue;
+ }
+ .main-box{
+   border: 8px solid  blue;
+   height: 560px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color:white;
+   
+
+ }
+ .box1{
+    height: 400px;
+    width:500px;
+    
+    margin: 25px;
+    border-radius: 10%;
+
+   
+ }
+
+ .box2{
+   height: 400px;
+   width: 400px;
+
+   margin: 25px;
+}
+
+.box3{
+   height: 400px;
+   width: 400px;
+   
+   margin: 25px;
+   
+   
+}
+
+.main-img1{
+   height: 400px;
+   width: 500px;
+   
+  
+
+}
+
+.main-img3{
+   height: 400px;
+   width: 400px;
+}
+
+.content{
+   padding:20px ;
+   color: darkblue;
+}
+
+.header{
+   height: 300px;
+   background-color: aqua;
+}
+
+.main-box2{
+   height: 500px;
+   background-color: blueviolet;
+   display: flex;
+   justify-content: space-between;
+}
+ .ft1{
+   height: 100px;
+   background-color: whitesmoke;
+   border: 10px solid blue;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ .ft2{
+   height: 150px;
+   background-color: darkslategrey;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+ }
